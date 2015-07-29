@@ -1,0 +1,27 @@
+{
+  "name": "greece-afm",
+  "version": "1.0.0",
+  "description": "Validation of Greek tax registration number (AFM)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint .",
+    "ci": "npm run lint && npm test"
+  },
+  "repository": "alefteris/greece-afm",
+  "keywords": [
+    "tax",
+    "registration",
+    "number",
+    "government",
+    "vat"
+  ],
+  "author": "Thanos Lefteris <alefteris@gmail.com> (http://thanoslefteris.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "3.2.0",
+    "eslint": "0.24.1",
+    "eslint-config-rigorous": "alefteris/eslint-config-rigorous",
+    "mocha": "2.2.5"
+  }
+}
