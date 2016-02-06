@@ -25,6 +25,11 @@
     "url": "http://thanoslefteris.com/"
   },
   "license": "MIT",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
   "bugs": {
     "url": "https://github.com/greecejs/greece-afm/issues"
   },
