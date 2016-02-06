@@ -1,4 +1,4 @@
-# greece-afm [![Build Status](https://travis-ci.org/alefteris/greece-afm.svg?branch=master)](https://travis-ci.org/alefteris/greece-afm)
+# greece-afm [![Build Status](https://travis-ci.org/greecejs/greece-afm.svg?branch=master)](https://travis-ci.org/greecejs/greece-afm)
 
 > Validation of Greek tax registration number (AFM).
 
