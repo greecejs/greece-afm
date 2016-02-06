@@ -19,7 +19,11 @@
     "government",
     "vat"
   ],
-  "author": "Thanos Lefteris <alefteris@gmail.com> (http://thanoslefteris.com/)",
+  "author": {
+    "name": "Thanos Lefteris",
+    "email": "alefteris@gmail.com",
+    "url": "http://thanoslefteris.com/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/greecejs/greece-afm/issues"
