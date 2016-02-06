@@ -27,4 +27,4 @@ Validation algorithm by a [gist](https://gist.github.com/tdoumas/7875550) from @
 
 ## License
 
-[MIT license](http://opensource.org/licenses/mit-license.php)
+[MIT](http://opensource.org/licenses/mit-license.php)
