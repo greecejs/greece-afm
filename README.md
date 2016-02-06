@@ -15,7 +15,7 @@ $ npm install greece-afm
 To validate an AFM:
 
 ```js
-const validateAfm = require('greece-afm');
+var validateAfm = require('greece-afm');
 
 validateAfm('094429812'); // true
 validateAfm('987654321'); // false

@@ -1,10 +1,10 @@
 'use strict';
 
-const chai = require('chai');
+var chai = require('chai');
 
-const validateAfm = require('../index');
+var validateAfm = require('../index');
 
-const expect = chai.expect;
+var expect = chai.expect;
 
 describe('Those afm', function() {
   it('should be valid', function() {
