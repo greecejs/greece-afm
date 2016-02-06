@@ -4,7 +4,7 @@
   "description": "Validation of Greek tax registration number (AFM)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
+    "test": "node test.js",
     "lint": "eslint .",
     "ci": "npm run lint && npm test"
   },
@@ -35,8 +35,7 @@
   },
   "homepage": "https://github.com/greecejs/greece-afm#readme",
   "devDependencies": {
-    "chai": "3.2.0",
     "eslint": "^2.0.0-rc.0",
-    "mocha": "2.2.5"
+    "tape": "^4.4.0"
   }
 }
